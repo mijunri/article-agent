@@ -1,7 +1,0 @@
-output_dir: outputs
-locale: zh-CN
-geo: CN
-top_n: 5
-llm:
-  enabled: false
-  model: gpt-4o-mini
